@@ -1,2 +1,2 @@
-NeXdatas Dockerfile file for debian stretch
-===========================================
+NeXdatas Docker file for debian stretch
+=======================================
